@@ -12,7 +12,7 @@ body{
     position: absolute;
     top: 30%;
     left: 16%;
-    transform: translate(-50%, -50%);
+    transform: translate(-0%, -0%);
     box-shadow: 0 10px 20px black;
 }
 img{
