@@ -4,20 +4,20 @@
     box-sizing: border-box;
 }
 body{
-    background grey;
+    background: #553cd3;
 }
 .container{
-    width: 856px;
-    height: 1169px;
+    width: 80%; 
+    height: 80%; 
     position: absolute;
-    top: 10%;
-    left: 10%;
+    top: 5%;
+    left: 5%;
     transform: translate(-0%, -0%);
     box-shadow: 0 10px 20px black;
 }
 img{
-    height: 100%;
-    width: 100%;
+    width: 100%; /* img width 856px */
+    height: 100%; /* img height 1169px */
 }
 .overlay{
     opacity: 0;
