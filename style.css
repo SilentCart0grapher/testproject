@@ -9,11 +9,18 @@ body{
 .container{
     width: 80%; 
     height: 80%; 
-    position: absolute;
+    position: relative;
     top: 5%;
     left: 5%;
-    transform: translate(-0%, -0%);
     box-shadow: 0 10px 20px black;
+}
+.container-2{
+  width: 15%;
+  height: 8%;
+  position: absolute;
+  box-shadow: 0 10px 20px black;
+  top: 23%;
+  left: 25%;
 }
 img{
     width: 100%; /* img width 856px */
@@ -24,12 +31,18 @@ img{
     transition: opacity 0.4s ease-in-out;
     background: green;
     cursor: pointer;
+  position: absolute;
+  vertical-align: middle;
+  top: 10%;
+  left: 0%;
+  
 }
 .content{
     color: white;
     font-family: verdana;
     text-align: center;
 }
-.container:hover .overlay{
+
+.container-2:hover .overlay{
     opacity: 0.8;
 }
