@@ -38,7 +38,7 @@ map{
     cursor: pointer;
 }
 
-.building1{
+.ParkingGarage{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -50,7 +50,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building2{
+.Cyprus{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -62,7 +62,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building3{
+.Louisiana{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -74,7 +74,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building4{
+.Govenors{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -86,7 +86,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building5{
+.WellnessCenter{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -99,7 +99,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building6{
+.Bienvenue{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -111,7 +111,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building7{
+.MagnoliaTheater{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -124,7 +124,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building8{
+.BRCCWarehouse{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -149,7 +149,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building10{
+.Purchasing{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -162,7 +162,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building11{
+.FacilitiesIT{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -175,7 +175,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building12{
+.FacilitiesWarehouse{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -188,7 +188,7 @@ map{
     background: rgba(245, 3, 3, 0.5);
     transition: opacity 0.4s ease-in-out;
 }
-.building13{
+.CentralPlant{
     opacity: 0;
     position: absolute;
     cursor: pointer;
@@ -219,43 +219,43 @@ map{
     opacity: 1;
 }
 
-.building1:hover{
+.ParkingGarage:hover{
     opacity: 1;
 }
-.building2:hover{
+.Cyprus:hover{
     opacity: 1;
 }
-.building3:hover{
+.Louisiana:hover{
     opacity: 1;
 }
-.building4:hover{
+.Govenors:hover{
     opacity: 1;
 }
-.building5:hover{
+.WellnessCenter:hover{
     opacity: 1;
 }
-.building6:hover{
+.Bienvenue:hover{
     opacity: 1;
 }
-.building7:hover{
+.MagnoliaTheater:hover{
     opacity: 1;
 }
-.building8:hover{
+.BRCCWarehouse:hover{
     opacity: 1;
 }
 .building9:hover{
     opacity: 1;
 }
-.building10:hover{
+.Purchasing:hover{
     opacity: 1;
 }
-.building11:hover{
+.FacilitiesIT:hover{
     opacity: 1;
 }
-.building12:hover{
+.FacilitiesWarehouse:hover{
     opacity: 1;
 }
-.building13:hover{
+.CentralPlant:hover{
     opacity: 1;
 }
 .building14:hover{
@@ -264,4 +264,4 @@ map{
 
 footer{
     position: bottom;
-}
+}                          
